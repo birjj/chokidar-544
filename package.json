@@ -1,0 +1,14 @@
+{
+  "name": "chokidar-544",
+  "version": "1.0.0",
+  "description": "Reproducable repo for chokidar/#544",
+  "main": "index.js",
+  "author": "birjolaxew",
+  "license": "MIT",
+  "devDependencies": {
+    "chokidar": "^3.0.2"
+  },
+  "scripts": {
+    "start": "./scripts/start.js"
+  }
+}
